@@ -88,7 +88,7 @@ td {border-width:0px;border-style:solid;border-color:#000000;padding:2px;margin:
 </table>
 <p/>
 Thank you,<br/>
-*IT C&CC Unix STL
+*Maintenance robot
 <br/>
 `/usr/bin/date`.<br/>
 <br/>
