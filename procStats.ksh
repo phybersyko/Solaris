@@ -49,7 +49,7 @@ Please check host `uname -n`. AppName Application(s) appear to be offline:
   <tr><td class="two"><div class="TERM"><pre>`zfsStat`</pre></div></td></tr>
 </table>
 <p/>Thank you,
-<p/>STL UNIX Automated ProcStats script on `uname -n`
+<p/>*Maintenance robot Automated ProcStats script on `uname -n`
 <hr class="three" />
 <p/>System time: `date`
 </body>
